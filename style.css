@@ -1,9 +1,9 @@
 /* Navigation */
 .navbar{
   text-transform: uppercase;
-  background-color: black;
+  background-color: red;
   font-weight: bold;
-  font-size: 0.9rem; /* 0.9 x 16px = 14,4 px */
+  font-size: 1.2rem; /* 0.9 x 16px = 14,4 px */
   letter-spacing: 0.1rem;
 }
 
